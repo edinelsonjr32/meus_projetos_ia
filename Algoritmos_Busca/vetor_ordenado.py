@@ -42,5 +42,4 @@ vetor.insere(1)
 vetor.insere(7)
 vetor.insere(5)
 vetor.insere(8)
-
 vetor.imprime()
