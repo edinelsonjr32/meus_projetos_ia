@@ -28,6 +28,8 @@ saidas = np.array([0, 1, 1, 1])
 pesos = np.array([0.0, 0.0])
 taxaAprendizagem = 0.1
 
+# Função simples para analisar os valores do perceptron
+
 
 def stepFunction(soma):
     if (soma >= 1):
